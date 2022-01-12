@@ -124,6 +124,12 @@ ul li:hover ul{
     text-decoration: none;
     text-align: center;
     margin: 10px;
+    transition: .5s;
+}
+
+/* ANIMACIONES */
+.cta:hover{
+    box-shadow: 0 0 20px yellow;   
 }
 
 /* HEADER */
@@ -166,6 +172,12 @@ gap: 10px;
     text-align: center;
     margin: 10px;
     align-items: center;
+    transition: .5s;
+}
+
+/* ANIMACIONES */
+.item:hover{
+    box-shadow: 0 0 20px yellow;
 }
 
 .titulo-services{
